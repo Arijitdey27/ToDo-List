@@ -59,7 +59,7 @@ http://localhost:8080/todo-list  //update poet if different
 ```
 
 ## 📂 Project Structure
-
+```
 todo-list/
 │── ToDo-List/
 │ │── src/main
@@ -74,7 +74,7 @@ todo-list/
 │ │ │── web.xml
 │ │── pom.xml
 │── README.md
-
+```
 
 
 
