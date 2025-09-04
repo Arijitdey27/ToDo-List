@@ -29,3 +29,55 @@ This project demonstrates CRUD operations (Create, Read, Update, Delete) with us
 ```bash
 git clone https://github.com/Arijitdey27/ToDo-List.git
 ```
+
+### 2. Configure Database
+
+#### 1. Open MySQL and Create a database
+```bash
+CREATE DATABASE todo_db;
+```
+
+#### 2. Update the database configuration inside the project bean (e.g., spring-servlet.xml ):
+```bash
+String url = "jdbc:mysql://localhost:3306/todo_db"; // Update port if different
+String username = "your-username";  
+String password = "your-password";
+```
+
+⚠️ Note:
+Update port number, database path, username, and password according to your local MySQL configuration.
+
+
+### 3. Deploy on Tomcat
+
+- Copy the project folder into webapps of Apache Tomcat.
+- Start the Tomcat server.
+- Access the app in your browser:
+
+```bash
+http://localhost:8080/todo-list  //update poet if different
+```
+
+## 📂 Project Structure
+
+todo-list/
+|──ToDo-List/
+|  │── src/main              
+|  │   |── java/com/todo
+|  |   |    |── controller
+|  |   |    |── dao
+|  |   |    |── entities
+|  │   ├── webapp/WEB-INF
+|  │       |── resources              # css,js,images 
+|  │       |── views                  # jsp files
+|  |       |── spring-servlet.xml     # bean configuration(database,view resolver)
+|  |       |── web.xml
+|  |──Pom.xml
+│── README.md
+
+
+
+
+## Contributing
+
+Contributions are welcome! Feel free to open an **issue** or submit a **pull request**.
