@@ -27,7 +27,7 @@ This project demonstrates CRUD operations (Create, Read, Update, Delete) with us
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/Arijitdey27/ToDo-List.git
+git clone - https://github.com/Arijitdey27/ToDo-List.git
 ```
 
 ### 2. Configure Database
@@ -75,7 +75,6 @@ todo-list/
 │ │── pom.xml
 │── README.md
 ```
-
 
 
 ## Contributing
