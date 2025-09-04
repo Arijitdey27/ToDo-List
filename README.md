@@ -68,9 +68,9 @@ todo-list/
 │ │ │ │── dao
 │ │ │ │── entities
 │ │ │── webapp/WEB-INF
-│ │ │── resources # css, js, images
-│ │ │── views # jsp files
-│ │ │── spring-servlet.xml # bean configuration (database, view resolver)
+│ │ │── resources 
+│ │ │── views 
+│ │ │── spring-servlet.xml 
 │ │ │── web.xml
 │ │── pom.xml
 │── README.md
