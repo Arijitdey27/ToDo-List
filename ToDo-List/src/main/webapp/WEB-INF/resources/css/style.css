@@ -1,0 +1,22 @@
+body{
+	background-image:linear-gradient(to right,rgba(0,0,0,.6)), url("../img/background-img.jpg");
+  	background-size: cover;
+  	background-position: center;
+ 	background-repeat: no-repeat;
+  	height: 100vh;
+  	margin: 0;
+	background-attachment: fixed;
+	
+}
+h1{
+	color: #6efafa;
+}
+.task{
+	padding-top: 8vh;
+	width:60pc;
+}
+.form-group{
+	font-size: 20px;
+	font-family: sans-serif;
+	color: #91f29e;
+}
