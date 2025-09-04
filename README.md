@@ -61,18 +61,18 @@ http://localhost:8080/todo-list  //update poet if different
 ## 📂 Project Structure
 
 todo-list/
-│──ToDo-List/
-│  │── src/main              
-│  │   │── java/com/todo
-│  │   │   │── controller
-│  │   │   │── dao
-│  │   │   │── entities
-│  │   │── webapp/WEB-INF
-│  │       │── resources              # css,js,images 
-│  │       │── views                  # jsp files
-│  │       │── spring-servlet.xml     # bean configuration(database,view resolver)
-│  │       │── web.xml
-│  │── pom.xml
+│── ToDo-List/
+│ │── src/main
+│ │ │── java/com/todo
+│ │ │ │── controller
+│ │ │ │── dao
+│ │ │ │── entities
+│ │ │── webapp/WEB-INF
+│ │ │── resources # css, js, images
+│ │ │── views # jsp files
+│ │ │── spring-servlet.xml # bean configuration (database, view resolver)
+│ │ │── web.xml
+│ │── pom.xml
 │── README.md
 
 
