@@ -68,10 +68,10 @@ todo-list/
 │ │ │ │── dao
 │ │ │ │── entities
 │ │ │── webapp/WEB-INF
-│ │ │── resources 
-│ │ │── views 
-│ │ │── spring-servlet.xml 
-│ │ │── web.xml
+│ │   │── resources 
+│ │   │── views 
+│ │   │── spring-servlet.xml 
+│ │   │── web.xml
 │ │── pom.xml
 │── README.md
 ```
