@@ -5,6 +5,17 @@ This project demonstrates CRUD operations (Create, Read, Update, Delete) with us
 
 ---
 
+#### Home/Index page
+<img src="screenshot/home.png" alt="home" align="center">
+
+#### Add New Task
+<img src="screenshot/add_task.png" alt="addtask" align="center">
+
+#### Update Task
+<img src="screenshot/update_task.png" alt="home" align="center">
+
+---
+
 ## 🚀 Features
 - Add new tasks  
 - View all tasks  
