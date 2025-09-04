@@ -4,6 +4,7 @@ A simple **To-Do List application** built using **Java, JSP, MySQL, CSS, and Jav
 This project demonstrates CRUD operations (Create, Read, Update, Delete) with user-friendly UI.
 
 ---
+## Screenshots
 
 #### Home/Index page
 <img src="screenshot/home.png" alt="home" align="center">
