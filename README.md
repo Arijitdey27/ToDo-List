@@ -72,7 +72,7 @@ todo-list/
 │  │       │── views                  # jsp files
 │  │       │── spring-servlet.xml     # bean configuration(database,view resolver)
 │  │       │── web.xml
-│  │── Pom.xml
+│  │── pom.xml
 │── README.md
 
 
