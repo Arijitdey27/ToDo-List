@@ -46,12 +46,12 @@ git clone - https://github.com/Arijitdey27/ToDo-List.git
 
 #### 1. Open MySQL and Create a database
 ```bash
-CREATE DATABASE todo_db;
+CREATE DATABASE todo;
 ```
 
 #### 2. Update the database configuration inside the project bean (e.g., spring-servlet.xml ):
 ```bash
-String url = "jdbc:mysql://localhost:3306/todo_db"; // Update port if different
+String url = "jdbc:mysql://localhost:3306/todo"; // Update port if different
 String username = "your-username";  
 String password = "your-password";
 ```
